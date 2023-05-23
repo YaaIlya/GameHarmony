@@ -1,0 +1,15 @@
+.footer {
+    grid-area: f;
+    height: 120px;
+    background: rgb(0, 0, 0);
+    position: relative;
+    /* Добавлено позиционирование */
+}
+
+.p {
+    color: white;
+    font-size: 1.3em;
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'BebasNeueBold';
+}
